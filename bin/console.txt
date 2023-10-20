@@ -1,0 +1,1 @@
+cxfreeze main.py --target-name main.exe --icon ./bin/icon.ico

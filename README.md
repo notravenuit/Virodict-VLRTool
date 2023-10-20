@@ -1,4 +1,4 @@
-![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/c4d26768-17fa-4667-a366-159f5dc5cc54)# Virodict-VLRTool
+# Virodict-VLRTool
 Virodict VLR Tool là một công cụ giúp bạn có thể sử dụng một số tính năng bị hạn chế/không được hỗ trợ trong VALORANT chỉ trong 1 lần click chuột. Đặc biệt có thể kể tới như:
   - Tính năng hiển thị M.á.u/X.á.c - Một tính năng giúp bạn hiển thị M.á.u và X.á.c (bị cấm tại Việt Nam), đồng thời mở Kill Banner có hình đầu lâu 
   - Tính năng Thay đổi Voice - Giúp bạn sử dụng Voicelines của tiếng Nhật, Hàn,... nhưng vẫn sử dụng ngôn ngữ văn bản là Tiếng Anh (Ae Wjbu chắc thích lắm :>)

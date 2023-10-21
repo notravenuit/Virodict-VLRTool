@@ -28,6 +28,7 @@ Các tính năng đặc biệt của Virodict VLRTool có thể kể tới như:
   - Sử dụng Virodict VLRTool trước khi vào game VALORANT
   - Để được hỗ trợ hoặc góp ý về tool, các bạn có thể vào server Discord VrC - Virodict Community: https://discord.gg/sPqfg5FZcn
 
+
 **Cách tìm đường dẫn Riot Client:**
   - Các bạn mở Window Search và tìm kiếm "VALORANT", sau đó nhấn chuột phải vào VALORANT và chọn Open file location
     ![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/454fd4bb-c74a-4a6b-822e-f0347c480672)
@@ -49,8 +50,11 @@ Các bạn có thể ủng hộ và theo dõi, đồng thời nhận hỗ trợ 
   - Discord: https://discord.gg/sPqfg5FZcn
 
 
-Update 1.0.1
+Update 1.1
   - Fix gấp lỗi "Python311.dll not found..."
-Update 1.0.2
+Update 1.2
   - Tối ưu hóa các tính năng
   - Fix lỗi spam Thông báo thành công, trạng thái tính năng giờ sẽ được tính hợp giúp người dùng có cái nhìn tổng quan hơn
+Update 1.3
+  - Tối ưu Hệ thống
+  - Ra mắt tính năng "Tắt VALORANT & Riot CLient", giúp bạn tắt hoàn toàn VALORANT và Riot Client trên máy

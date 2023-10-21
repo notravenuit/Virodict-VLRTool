@@ -5,7 +5,8 @@ Virodict VLRTool là một công cụ giúp bạn có thể sử dụng một s�
   - .... (Sẽ update thêm dựa trên các ý tưởng và góp ý của các bạn trong server Discord)
 ![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/9f703572-8dd1-4b50-8af5-84022fe5b7c3)
 
-![Untitled](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/705aa6a4-7e16-4b8c-ba8d-91910bd91c18)
+![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/11d04f1e-f4a9-4559-aee2-e1b6a42fcc4b)
+
 
 
 
@@ -17,6 +18,7 @@ Virodict VLRTool là một công cụ giúp bạn có thể sử dụng một s�
 ![chek](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/4b3d9ae2-750a-480c-a749-fb21a49545f8)
 
 **Lưu ý trước khi sử dụng Virodict VLRTool:**
+  - Sử dụng took khi chưa khởi VALORANT
   - Để tool hoạt động không gặp lỗi, tốt nhất bạn nên tắt tính năng "Ghi nhớ đăng nhập" trong Riot Client
   - Không hề có 1 thông tin nào nói rằng hành động này là được** CHO PHÉP** hay **CẤM** bởi Riot Games/VNG. Vậy nên bạn hãy cân nhắc trước khi sử dụng chương trình. Mình sẽ không chịu trách nhiệm nếu như tài khoản của bạn có vấn đề
   - Sử dụng Virodict VLRTool trước khi vào game VALORANT

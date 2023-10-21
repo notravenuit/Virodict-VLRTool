@@ -16,7 +16,7 @@ Các tính năng đặc biệt của Virodict VLRTool có thể kể tới như:
 
 **Hướng dẫn sử dụng:**
 
-  - Điều đầu tiên và cũng là **QUAN TRỌNG NHẤT**: Mở file `RiotGamesDirectory.txt` và điền đường dẫn Riot Client trên máy của bạn. Mặc định: _C:\Riot Games_ (Hướng dẫn tìm đường dẫn Riot Client ở bên dưới)
+  - Điều đầu tiên và cũng là **QUAN TRỌNG NHẤT**: Mở file `RiotGamesPath.txt` và điền đường dẫn Riot Client trên máy của bạn. Mặc định: _C:\Riot Games_ (Hướng dẫn tìm đường dẫn Riot Client ở bên dưới)
   - Chạy file `Virodict VLRTool.exe`
   - Kiểm tra thư mục Riot Games được cài đặt đã chính xác chưa, sau đó bật tính năng bạn muốn sử dụng
 ![chek](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/4b3d9ae2-750a-480c-a749-fb21a49545f8)

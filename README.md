@@ -41,3 +41,10 @@ Các bạn có thể ủng hộ và theo dõi, đồng thời nhận hỗ trợ 
   - YouTube: https://youtube.com/notravenuit
   - TikTok: https://www.tiktok.com/@notravenuit
   - Discord: https://discord.gg/sPqfg5FZcn
+
+
+Update 1.0.1
+  - Fix gấp lỗi "Python311.dll not found..."
+Update 1.0.2
+  - Tối ưu hóa các tính năng
+  - Fix lỗi spam Thông báo thành công, trạng thái tính năng giờ sẽ được tính hợp giúp người dùng có cái nhìn tổng quan hơn
